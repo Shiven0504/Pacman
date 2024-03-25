@@ -1,4 +1,4 @@
-=function Pacman(xCord, yCord, direction){
+function Pacman(xCord, yCord, direction){
 	this.x = xCord;
 	this.y = yCord;
 	this.dir = direction;
